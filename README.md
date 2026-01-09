@@ -6,6 +6,8 @@ This is an **Expo** project creating an multi-deployment app for road law enforc
 
 ## Get started
 
+You'll need OpenJDK 17 to be able to compile android emulation builds
+
 1. Install dependencies
 
    ```bash

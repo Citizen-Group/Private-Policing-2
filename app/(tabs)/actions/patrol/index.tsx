@@ -1,9 +1,9 @@
-import { Text, View, StyleSheet } from 'react-native';
+import { View, Text, StyleSheet} from 'react-native';
 
-export default function Index() {
+export default function PatrolScreen() {
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>Hello Cruel World</Text>
+      <Text style={styles.text}>Patrol Screen</Text>
     </View>
   );
 }
@@ -12,8 +12,8 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: '#25292e',
-    alignItems: 'center',
     justifyContent: 'center',
+    alignItems: 'center',
   },
   text: {
     color: '#fff',
