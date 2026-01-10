@@ -46,7 +46,8 @@
           }
         }
       ],
-      "react-native-vision-camera"
+      "react-native-vision-camera",
+      "expo-sqlite"
     ],
     "experiments": {
       "typedRoutes": true,

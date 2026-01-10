@@ -3,6 +3,7 @@ import { Link } from 'expo-router';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 import { View } from 'react-native';
 
+
 export default function Index() {
   const theme = useTheme();
 
