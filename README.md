@@ -18,12 +18,6 @@ You'll need OpenJDK 17 to be able to compile android emulation builds
 
    ```bash
    npx expo start
-   npm start web
-   ```
-
-If you do
-
-   ```bash
    npm run android
    ```
 
